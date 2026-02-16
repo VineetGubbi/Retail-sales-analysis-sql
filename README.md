@@ -35,6 +35,14 @@ The database contains the following tables:
 4. Customer Ranking using Window Functions
 
 
+## 📊 Sample Insights
+
+- Total Revenue: ₹155,000
+- Top Category: Electronics (₹140,000)
+- Top Customer: Amit Sharma (₹90,000)
+
+
+
 ## ▶️ How to Run the Project
 
 1. Create the database using `schema.sql`
